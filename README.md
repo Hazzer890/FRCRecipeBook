@@ -1,4 +1,4 @@
-# DFM2021
+# I Stole this from SAM GOH
 
 # Getting Started
 * Install TeXLive: https://www.tug.org/texlive/acquire-netinstall.html (install-tl-windows.exe). You won't need the GUI (untick Frontend on the installer)
